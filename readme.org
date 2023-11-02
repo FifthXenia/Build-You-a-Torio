@@ -1,0 +1,18 @@
+*** Build You a Torio
+
+**** WIP
+
+- [[https://github.com/FifthXenia/etorio][etorio (Emacs Lisp)]]
+
+
+
+**** To Consider
+- ptorio (pyton +  pygame)
+- rtorio (rust + bevy)
+- htorio (haskell + apecs)
+- jtorio (Javascript + React)
+  - https://www.freecodecamp.org/news/how-to-make-2048-game-in-react/
+- ctorio (Clojure)
+- elixir (phoenix)
+- Book + Video (nixos + nix shell + emacs)
+- "Mor Torio" (extended)
